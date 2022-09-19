@@ -1,25 +1,15 @@
 ---
-layout: about
-title: about
+title: TKAI Lab
+layout: homelay
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The “TrustWorthy Knowledge Driven Artificial Intelligence Laboratory” has four active research projects.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Formal method meet AI/Neuro-Symbloic AI**: My work is at the intersection of language, memory, and computation—spanning Natural Language Processing (NLP), linguistics, and formal language theory. In particular, I design knowledge-guided interpretable deep learning systems focused on generating trustworthy information. Furthermore, I am also interested in investigating the mysterious success of deep learning in recognizing natural language from a theoretical and empirical perspective.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ **Predictive coding-inspired Neural Architectures**: Our lab, in collaboration with [NAC](https://www.cs.rit.edu/~ago/nac_lab.html), works on designing learning algorithms and computational architectures guided by theories of the brain and its functionality that emphasize solving challenges such as continual/lifelong learning, learning with minimal supervision, Reinforcement Learning, and sparsity (both in computer vision and natural language processing).
+
+ **Low Resource and Robust NLP**: In collaboration with our collaborator from [University of Mississippi](https://lethaiq.github.io/tql3/), we are working on designing low-resource Natural language processing (NLP) agents that are robust and capable of generating safe/ethical information. Such models are aimed to help under-represented groups.
+ 
+ **Physics Informed Neural Networks**: In colloboration with [Department of Earth and Engineering Sciences](https://sites.psu.edu/ultrasonics/pshokouhi/) at Pennsylvania State University we are working on designing on Neural Networks that obey physics law and require minimum resource/data to find stable solution for given domain.
